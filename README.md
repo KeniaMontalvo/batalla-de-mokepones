@@ -31,4 +31,4 @@ En este proyecto se enfocó en construir un Juego Web dividido en secciones din�
 Aprender a utilizar las etiquetas de HTML5 y CSS3, además de entender la lógica del código JavaScript de un videojuego de principio a fin de manera efectiva.
 
 ## 4. Link a Demo
-Aquí puedes visualizar mi proyecto terminado: [Videojuego Web Mokepon]()
+Aquí puedes visualizar mi proyecto terminado: [Videojuego Web Mokepon](batalla-de-mokepones.netlify.app)
